@@ -44,7 +44,7 @@ const UpdateDetailes = () => {
     <div className="flex items-center justify-center min-h-screen bg-[#cadaf9] text-gray-900 px-4">
       <div className="w-full max-w-6xl bg-white rounded-2xl shadow-xl p-8 border border-gray-300">
         <h2 className="text-3xl font-semibold text-gray-800 mb-6 text-center">
-          Employee Registration
+          Update Employee Details
         </h2>
         <form
           className="grid grid-cols-1 md:grid-cols-2 gap-6"
@@ -125,7 +125,7 @@ const UpdateDetailes = () => {
               type="submit"
               className="bg-gradient-to-r from-blue-500 to-indigo-500 text-white font-semibold py-3 px-6 rounded-lg hover:from-indigo-500 hover:to-blue-600 transition duration-200 shadow-md"
             >
-              Submit
+              Update
             </button>
           </div>
         </form>
